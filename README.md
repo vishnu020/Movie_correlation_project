@@ -1,2 +1,3 @@
 # Movie_correlation_project
-In this project data is analyze with the help of SQL ,where different query are use to analysis the data apart from SQL ,MS EXCEL is also used to to create this project 
+numpy,pandas ,pythoon is used 
+
